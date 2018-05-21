@@ -1,7 +1,8 @@
-### h5与ios交互
-# 使用WebViewJavaScriptBridge与ios进行交互
+## h5与ios交互
+### 使用WebViewJavaScriptBridge与ios进行交互
 
-这里只介绍js端使用方法 
+这里只介绍js端使用方法
+
 1.将下面代码放入JS中
 ```
 /*这段代码是固定的，必须要放到js中*/
